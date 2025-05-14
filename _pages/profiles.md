@@ -1,4 +1,7 @@
 ---
+published: false
+---
+---
 layout: profiles
 permalink: /people/
 title: people
