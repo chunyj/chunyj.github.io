@@ -96,18 +96,15 @@
 - title: Projects
   type: time_table
   contents:
-    - title: AI-Driven Mental Health Counseling
-      year: —
+    - title: "[AI-Driven Mental Health Counseling](https://github.com/jina-chun/cs272_finalproject)"
       items:
         - "Investigated whether open-source LLMs can replicate human counselor linguistic patterns."
         - "Applied multiple NLP techniques to compare AI vs. human counseling responses."
-    - title: Culture Explorer — Responsive Web Platform for Cultural Discovery
-      year: —
+    - title: "[Culture Explorer — Responsive Web Platform for Cultural Discovery](https://github.com/jina-chun/project-culture_explorer)"
       items:
         - "Built a responsive website showcasing global destinations and cultural experiences."
         - "Implemented interactive gallery and destination pages optimized for responsiveness and usability."
-    - title: DineLog — Interactive Food Review & Sharing Web Platform
-      year: —
+    - title: "[DineLog — Interactive Food Review & Sharing Web Platform](https://github.com/jina-chun/project-eatNwrite)"
       items:
         - "Developed a full-stack Django application with authentication, CRUD, and media uploads."
         - "Packaged Heroku-ready configuration; includes demonstration video."
