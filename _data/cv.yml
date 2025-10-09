@@ -36,7 +36,7 @@
   contents:
     - title: Research Assistant
       institution: STAIRS Lab, University of California, Irvine
-      year: Sept 2022 – Present
+      year: Present
       items:
         - "Published two peer-reviewed papers on LLMs in software engineering."
         - "Developed multi-agent debate frameworks to analyze limitations and enhance the performance of LLM-driven SE tasks."
