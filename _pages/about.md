@@ -31,7 +31,7 @@ I'm a Ph.D. student in Software Engineering at the University of California, Irv
 
 You can find a list of my publications [here](/publications) and view my detailed CV using the button below.
 
-<a href="assets/pdf/resume.pdf" class="btn btn-md btn-primary" target="_blank">
+<a href="assets/pdf/resume.pdf" class="btn btn-md btn-primary" target="_blank" style="color: white;">
   <strong>Download CV</strong>
 </a>
 
