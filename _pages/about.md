@@ -13,11 +13,11 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -28,6 +28,12 @@ latest_posts:
 ---
 
 I'm a Ph.D. student in Software Engineering at the University of California, Irvine, advised by [Prof. Iftekhar Ahmed](https://ics.uci.edu/~iftekha/) in the [STAIRS](https://stairs.ics.uci.edu/) lab. My research focuses on leveraging large language models (LLMs) and multi-agent systems to enhance automated software development and testing. I’m particularly interested in exploring how prompting strategies and agent collaboration can improve reasoning, code quality, and reliability in complex software tasks. 
+
+You can find a list of my publications [here](/publications) and view my detailed CV using the button below.
+
+<a href="assets/pdf/resume.pdf" class="btn btn-md btn-primary" target="_blank">
+  <strong>Download CV</strong>
+</a>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
