@@ -2,17 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Yong Jin (Jina) Chun
+      value: Jina (Yong Jin) Chun
     - name: Email
       value: chunyj@uci.edu
-    - name: Website
-      value: chunyj.github.io
-    - name: Google Scholar
-      value: scholar.google.com/citations?user=5xF9k-4AAAAJ
-    - name: GitHub
-      value: github.com/chunyj
-    - name: LinkedIn
-      value: linkedin.com/in/jina-chun
     - name: Location
       value: Irvine, California, US
 
@@ -21,139 +13,12 @@
   contents:
     - title: Ph.D. in Software Engineering
       institution: University of California, Irvine
-      year: Sept 2022 – Present
+      year: 2022 - present
       description:
-        - Advisor: Professor Iftekhar Ahmed
-        - GPA: 4.0/4.0
-    - title: M.S. in Software Engineering
-      institution: University of California, Irvine
-      year: Sept 2022 – Sept 2025
-      description:
-        - Advisor: Professor Iftekhar Ahmed
-        - GPA: 4.0/4.0
-        - Dissertation: Multi-Agent Debate for Advancing Agentic Software Development
+        - Advised by Professor Iftekhar Ahmed.
     - title: B.S. in Computer Science
       institution: Boston University
-      year: Aug 2017 – May 2021
+      year: 2017 - 2021
       description:
-        - Cum Laude; Dean’s Honor List
-        - GPA: 3.6/4.0
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Assistant
-      institution: STAIRS Lab, University of California, Irvine
-      year: Sept 2022 – Present
-      description:
-        - Published two peer-reviewed papers on LLMs in software engineering.
-        - Developed multi-agent debate frameworks to analyze limitations and enhance the performance of LLM-driven SE tasks.
-        - Conducted an empirical analysis of prompting techniques across diverse SE tasks to investigate factors influencing their effectiveness.
-    - title: Data Science Intern
-      institution: Orion Health, Auckland, New Zealand
-      year: Jan 2020 – Apr 2020
-      description:
-        - Analyzed data annotation strategies to improve accuracy and efficiency in clinical data processing.
-        - Built an NLP-based annotation tool for clinical data.
-    - title: Software Engineering Intern
-      institution: Parasoft Southeast Asia, Singapore
-      year: Jun 2019 – Aug 2019
-      description:
-        - Investigated automated software testing product to identify software quality issues.
-        - Designed and implemented UI improvements based on findings.
-
-- title: Publications
-  type: time_table
-  contents:
-    - title: Enhancing LLM Performance Through Debate: An Empirical Study on Multi-Agent Debate for Software Engineering Tasks
-      year: 2025
-      description:
-        - Authors: Jina Chun, Qihong Chen, Jiawei Li, Iftekhar Ahmed
-        - Status: Manuscript submitted to ACM FSE
-        - Preprint: arXiv:2503.12029
-    - title: Which Prompt Works Best? An Empirical Evaluation of Prompting Techniques for Software Engineering Tasks
-      year: 2025
-      description:
-        - Authors: EG Santana Jr, Gabriel Benjamin, Jina Chun, Melissa Araujo, Harrison Santos, David Freitas, Eduardo Almeida, Paulo Anselmo da Neto, Jiawei Li, Iftekhar Ahmed
-        - Status: Manuscript submitted to ACM FSE
-        - Preprint: arXiv:2506.05614
-
-- title: Skills
-  type: nested_list
-  contents:
-    - title: Research
-      items:
-        - NLP, Large Language Models, Multi-Agent Systems, Fine-tuning, Prompt Engineering, Model Training
-        - Software Testing (JUnit, PyTest)
-        - Machine Learning, Neural Networks
-        - Dataset Curation & Labeling, Topic Modeling
-        - Literature Review, Empirical Research, Qualitative & Statistical Analysis, Human Subjects Research
-    - title: Programming & Frameworks
-      items:
-        - Java, Python, JavaScript, TypeScript, Node.js, HTML/CSS, Django, React, Bootstrap
-    - title: ML/AI Frameworks
-      items:
-        - PyTorch, TensorFlow, LangChain, scikit-learn, Hugging Face Transformers, OpenAI API
-    - title: Data Analysis
-      items:
-        - Pandas, NumPy, Matplotlib, Seaborn, SQL, Data Visualization
-    - title: Tools & Platforms
-      items:
-        - Git, GitHub, Docker, Heroku, Linux, VS Code, Jupyter, Conda, Bash
-
-- title: Projects
-  type: time_table
-  contents:
-    - title: AI-Driven Mental Health Counseling
-      year: —
-      description:
-        - Investigated whether open-source LLMs can replicate human counselor linguistic patterns.
-        - Applied multiple NLP techniques to compare AI vs. human counseling responses.
-    - title: Culture Explorer — Responsive Web Platform for Cultural Discovery
-      year: —
-      description:
-        - Built a responsive website showcasing global destinations and cultural experiences.
-        - Implemented interactive gallery and destination pages optimized for responsiveness and usability.
-    - title: DineLog — Interactive Food Review & Sharing Web Platform
-      year: —
-      description:
-        - Developed a full-stack Django application with authentication, CRUD, and media uploads.
-        - Packaged Heroku-ready configuration; includes demonstration video.
-
-- title: Professional Service
-  type: time_table
-  contents:
-    - title: Reviewer, IEEE Transactions on Reliability
-      year: Apr 2025
-    - title: Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)
-      year: Apr 2024
-    - title: Reviewer, Empirical Software Engineering (EMSE)
-      year: Jul 2025
-
-- title: Awards and Honors
-  type: time_table
-  contents:
-    - title: Chair’s Award
-      institution: Donald Bren School of ICS, University of California, Irvine
-      year: Sept 2023
-      description:
-        - Awarded upon admission to the Ph.D. program in recognition of exceptional potential for research contributions.
-    - title: Cum Laude
-      institution: Boston University, College of Arts & Sciences
-      year: Jun 2021
-    - title: Dean’s List
-      institution: Boston University, College of Arts & Sciences
-      year: Aug 2018 – Jun 2021
-
-- title: Mentorship
-  type: time_table
-  contents:
-    - title: Mentor, ICS Honors Program
-      institution: University of California, Irvine
-      year: Jul 2023 – Ongoing
-    - title: Mentor, Graduate International Connection Program
-      institution: University of California, Irvine
-      year: Mar 2023 – Ongoing
-    - title: International Peer Mentor Program
-      institution: Boston University
-      year: Aug 2017 – Jun 2021
+        - Graduated Cum Laude.
+        - Dean’s Honor List.
