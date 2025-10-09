@@ -66,7 +66,7 @@
   type: time_table
   contents:
     - title: Enhancing LLM Performance Through Debate: An Empirical Study on Multi-Agent Debate for Software Engineering Tasks
-      year: 2026
+      year: 2025
       description:
         - Authors: Jina Chun, Qihong Chen, Jiawei Li, Iftekhar Ahmed
         - Status: Manuscript submitted to ACM FSE
