@@ -54,22 +54,6 @@
         - "Investigated automated software testing products to identify software quality issues."
         - "Designed and implemented UI improvements based on findings."
 
-- title: Publications
-  type: time_table
-  contents:
-    - title: "Enhancing LLM Performance Through Debate: An Empirical Study on Multi-Agent Debate for Software Engineering Tasks"
-      year: "2025"
-      items:
-        - "Authors: Jina Chun, Qihong Chen, Jiawei Li, Iftekhar Ahmed"
-        - "Status: Manuscript submitted to ACM FSE"
-        - "Preprint: arXiv:2503.12029"
-    - title: "Which Prompt Works Best? An Empirical Evaluation of Prompting Techniques for Software Engineering Tasks"
-      year: "2025"
-      items:
-        - "Authors: EG Santana Jr, Gabriel Benjamin, Jina Chun, Melissa Araujo, Harrison Santos, David Freitas, Eduardo Almeida, Paulo Anselmo da Neto, Jiawei Li, Iftekhar Ahmed"
-        - "Status: Manuscript submitted to ACM FSE"
-        - "Preprint: arXiv:2506.05614"
-
 - title: Skills
   type: nested_list
   contents:
