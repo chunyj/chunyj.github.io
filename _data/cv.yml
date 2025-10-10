@@ -80,8 +80,9 @@
 - title: Projects
   type: time_table
   contents:
-    - title: "[AI-Driven Mental Health Counseling](https://github.com/jina-chun/cs272_finalproject)"
+    - title: "<a href='https://github.com/jina-chun/cs272_finalproject' target='_blank'>AI-Driven Mental Health Counseling</a>"
       items:
+        - [GitHub](https://github.com/jina-chun/cs272_finalproject)
         - "Investigated whether open-source LLMs can replicate human counselor linguistic patterns."
         - "Applied multiple NLP techniques to compare AI vs. human counseling responses."
     - title: "[Culture Explorer — Responsive Web Platform for Cultural Discovery](https://github.com/jina-chun/project-culture_explorer)"
