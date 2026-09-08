@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Ph.D. student in Software Engineering at the University of California, Irvine, advised by [Prof. Iftekhar Ahmed](https://ics.uci.edu/~iftekha/) in the [STAIRS](https://stairs.ics.uci.edu/) lab. My research focuses on leveraging large language models (LLMs) and multi-agent systems to enhance automated software development and testing. I’m particularly interested in exploring how LLM communication and agent collaboration can enhance reasoning, code quality, and reliability in complex software engineering tasks.
+I'm a Ph.D. student in Software Engineering at the University of California, Irvine, advised by [Prof. Iftekhar Ahmed](https://ics.uci.edu/~iftekha/) in the [STAIRS](https://stairs.ics.uci.edu/) lab. My research focuses on multi-agent systems and large language model (LLM) agents, advancing how reliably they reason and collaborate to solve complex tasks. I'm particularly interested in how agent collaboration can improve reasoning, code quality, and reliability, with applications in automated software development and testing. 
 
 Explore my recent publications [here](/publications) and download my CV using the button below.
 
