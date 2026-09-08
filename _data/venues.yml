@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"TOSEM":
+  url: https://dl.acm.org/journal/tosem
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"arXiv":
+  url: https://arxiv.org
+  color: "#b31b1b"
 
-"Vision":
-  color: "#009f36"
+"NeurIPS":
+  url: https://neurips.cc
+  color: "#68448b"
