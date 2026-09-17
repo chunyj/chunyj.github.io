@@ -45,9 +45,10 @@
       institution: STAIRS Lab, University of California, Irvine
       year: Present
       items:
-        - "Published two peer-reviewed papers on LLMs in software engineering."
-        - "Developed multi-agent debate frameworks to analyze limitations and enhance the performance of LLM-driven SE tasks."
-        - "Conducted an empirical analysis of prompting techniques across diverse SE tasks to investigate factors influencing their effectiveness."
+        - "Led research projects and publications on Agentic AI and multi-agent systems, focusing on agent collaboration, communication, and reasoning."
+        - "Developed and evaluated multi-agent debate frameworks to analyze agent interactions and improve LLM performance across software engineering tasks."
+        - "Investigated communication and information exchange in multi-agent systems, characterizing how agents share and use information during collaborative problem solving."
+        - "Conducted large-scale empirical analyses of prompting techniques across diverse software engineering tasks to identify factors influencing LLM effectiveness."
     - title: Data Science Intern
       institution: Orion Health, Auckland, New Zealand
       year: Jan – Apr 2020
