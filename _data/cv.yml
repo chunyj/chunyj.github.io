@@ -34,11 +34,11 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Intern
+    - title: PhD Research Intern
       institution: Microsoft Research, Redmond, WA
       year: June – Sept 2026
       items:
-        - "Advisor: Christian Bird"
+        - "Mentors: Christian Bird, Carmen Badea"
         - "Designed a working-knowledge memory system that integrates across agent sessions to enable contextual retrieval throughout the development lifecycle."
         - "Explored indexing, retrieval, and privacy-aware redaction strategies to strengthen agent-assisted software engineering workflows."
     - title: Research Assistant
